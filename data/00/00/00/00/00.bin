@@ -1,0 +1,182 @@
+                         ______            _____         ______
+                   _____/     /   _  _____/    /   __  __\___  \__
+         _ _____  _\   /     /  _____    /   _/ _______    _/   _/_ _____
+          _____/___   /     /__/    /   _    \__\__   /__  \      / ____/___
+      ______      /  /_    /  /   _/    /     /   /     /  /     /___      /
+    _ /    /     /________/  _    \____/_____/   /     /__/_____/   /     /_
+  _///    /     /   _ _      /     /   __ _     /     /    _ _     /     ///_
+  - /__________/ ---- /_____/_____/ ----- /__________/ ----- /__________/ ---
+  |                                                                         |
+  |                 - P R O U D L Y      P R E S E N T S -                  |
+..:_________________________________________________________________________:..
+  :                                                                         :
+  |       Title : A Robot Named Fight (Update v1.5.0.27)                    |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |   Publisher : Hitcents                    Platform : Nintendo Switch    |
+  |   Developer : Matt Bitner Games             Origin : eShop              |
+  |       Genre : Action / Adventure          Title ID : 0100EB600A4DA800   |
+  |        Date : December 2019                 Format : 31x50MB / NSP      |
+  |                                                                         |
+  :_________________________________________________________________________:
+  |                                                                         |
+  |     Summary                                                             |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |   Millennia of peace have passed since the mechanical gods ascended     |
+  |   and left the lower order robots to cultivate the world.               |
+  |   Unfortunately for those left behind, something forgotten and          |
+  |   terrible stirs amidst the stars: the Megabeast, a pulsating           |
+  |   moon-sized orb of flesh, eyes, mouths and reproductive organs -       |
+  |   unleashing its children onto the world like an unstoppable plague.    |
+  |                                                                         |
+  |   A Robot Named Fight is a 2D action adventure roguelite focused on     |
+  |   exploration and item collection. Take on the role of a lone robot     |
+  |   tasked with stopping the entity known as Megabeast. Explore           |
+  |   procedurally-generated labyrinths, uncover randomized power-ups and   |
+  |   artifacts, find secrets, and blast meaty creatures in this            |
+  |   deliciously gory adventure.                                           |
+  |                                                                         |
+  |   * Explore a procedurally-generated labyrinth with more than 4         |
+  |     billion unique runs                                                 |
+  |                                                                         |
+  |   * Prove your worth with true permadeath                               |
+  |                                                                         |
+  |   * Take on over 60 menacing enemies solo or with a friend via local    |
+  |     co-op                                                               |
+  |                                                                         |
+  |   * Adapt to a different item set every run with more than 100 unique   |
+  |     items                                                               |
+  |                                                                         |
+  |   * Complete in-game achievements to unlock new content                 |
+  |                                                                         |
+  |   * Enjoy an unreasonable amount of meat                                |
+  |                                                                         |
+  |   Languages: English.                                                   |
+  |                                                                         |
+  |   Update Notes: v1.5.0.27 (v458752). Firmware 9.1.0 is required.        |
+  |                                                                         |
+  |   * A Robot Named Fight is still receiving new updates. Another patch   |
+  |     was issued today, which introduces a new 4-player co-op mode        |
+  |     where one player plays as Fight and up to three more players can    |
+  |     join in as orbs. Bug fixes, room revisals, balance changes, and     |
+  |     more are also included                                              |
+  |                                                                         |
+  |   * Any Key will now cause the Title Screen to progress when it         |
+  |     readys "Press Any Key"                                              |
+  |                                                                         |
+  |   * Titlescreen will no longer read "Press Return" if user is using a   |
+  |     joystick and switches to keyboard                                   |
+  |                                                                         |
+  |   * Fixed crash caused by using the cloaking device in a room with      |
+  |     creatures that have the hopper behavior                             |
+  |                                                                         |
+  |   * Fixed bug where Lil Zurvan would spawn copies of Search Burst       |
+  |     activated item                                                      |
+  |                                                                         |
+  |   * Fixed visual glitch with viridian shell and dive shell combo        |
+  |                                                                         |
+  |   * Fixed several rare issues where boss rooms could be placed          |
+  |     without the appropriate gating                                      |
+  |                                                                         |
+  |   * Fixed issue where "Very High" jump rooms could spawn at the start   |
+  |     of underwater paths and cause soft-locks                            |
+  |                                                                         |
+  |   * Fixed issue where Dash would briefly return movement controls to    |
+  |     normal when used under confusion effect                             |
+  |                                                                         |
+  |   * Fixed issue where Teleporters could be placed such that they need   |
+  |     items from later areas to access                                    |
+  |                                                                         |
+  |   * Fixed issue where using Module Transmogrifier to blow up an item    |
+  |     dropped by champions would make all future champion items           |
+  |     unattainable                                                        |
+  |                                                                         |
+  |   * Fixed issue where certain enemies would trigger room lock down in   |
+  |     Forbidden Place                                                     |
+  |                                                                         |
+  |   * Revised Rooms                                                       |
+  |                                                                         |
+  |   * BuriedCity1x2Jump01 - fixed out of bounds                           |
+  |                                                                         |
+  |   * CoolantSewers1x2VeryHighLeft02 - fixed stray tile                   |
+  |                                                                         |
+  |   * CoolantSewers1x1JumpLeft01 - fixed potential soft-lock with slide   |
+  |                                                                         |
+  |   * CoolantSewers1x1JumpLeft01 - fixed floor                            |
+  |                                                                         |
+  |   * Factory2x2AllExits02 - made jump easier                             |
+  |                                                                         |
+  |   * Surface2x1DamageBlocks01 - improved camera bounds                   |
+  |                                                                         |
+  |   * Surface2x1Jump01 - improved camera bounds                           |
+  |                                                                         |
+  |   * Factory1x2VeryHighDownLeft01 - double-jump sequence break (and      |
+  |     potential soft-lock) more difficult to achieve                      |
+  |                                                                         |
+  |   * Cave2x1Arachnomorph01 - fixed backwards facing Wall Tumor           |
+  |     Shooters                                                            |
+  |                                                                         |
+  |   * BuriedCity1x2AllExit02 - fixed broken item block in lower right     |
+  |     corner                                                              |
+  |                                                                         |
+  |   * Cave1x2VeryHighLeft01 - can be escaped if underwater                |
+  |                                                                         |
+  |   * Cave1x2VeryHighDownRight01 - can be escaped if underwater           |
+  |                                                                         |
+  |   * Balance Changes                                                     |
+  |                                                                         |
+  |   * ArtificeBeam now costs 1 Red, Blue, Green and 0 Gray                |
+  |                                                                         |
+  |   * The placement of bonus items is now effected by expected            |
+  |     traversal capabilities. Items like Explorb and Master Map will no   |
+  |     longer be placed behind gates that require the "final item", etc.   |
+  |                                                                         |
+  |   * Aura Bolt's aura doesn't destroy projectiles                        |
+  |                                                                         |
+  |   * New items added to Buluc-Chabtan's item pool                        |
+  |                                                                         |
+  |   * New items added to Wadjet-Mikail's item pool                        |
+  |                                                                         |
+  |   * Phaserang now lets you fire multiple Phaserangs                     |
+  |                                                                         |
+  |   * Phaserang has an initial velocity of 24 opposed to 16               |
+  |                                                                         |
+  |   * Phaserang DPS reduced from 35 to 24                                 |
+  |                                                                         |
+  |   * Phaserang won't auto deselect unless your energy is lower than      |
+  |     the cost to fire a new rang and there are no rangs currently out    |
+  |                                                                         |
+  |   * White Wyrm can target Co-op Players                                 |
+  |                                                                         |
+  |   * Secret Boss's laser can target Co-op Players                        |
+  |                                                                         |
+  |   * Tyr's Horns now applies it's 10% champion spawn bonus before the    |
+  |     1/3 penalty of previously visited rooms is applied                  |
+  |                                                                         |
+  |   * Bligthbark attacks faster                                           |
+  |                                                                         |
+  |   * Other                                                               |
+  |                                                                         |
+  |   * New Coolant Sewers Deathmatch map                                   |
+  |                                                                         |
+  |   * All Coolant Sewers Shops have new BG Palette                        |
+  |                                                                         |
+  |   * Inactive teleporters provide dim light                              |
+  |                                                                         |
+  |   * Input on non-Player 1 controllers brings up "Join Game" prompt      |
+  |                                                                         |
+  |   * Support for up to 3 co-op orbs                                      |
+  |                                                                         |
+  :_________________________________________________________________________:
+  |                                                                         |
+  |      Greets                                                             |
+  |   -------------------------------------------------------------------   |
+  |                                                                         |
+  |       Abstrakt . Capital . Caravan . Dual Crew Shining . Eurasia        |
+  |      Lightforce . Menace . Mode 7 . Nightfall . Oldskool . Paradox      |
+  |        Quartex . Quasar . Rising Sun . Squire . Triforce . Venom        |
+  :                                                                         :
+..:_________________________________________________________________________:..
+  :                                                                         :
+  .                 SUXXORS - Fighting Robots! Since 2003.                  .
